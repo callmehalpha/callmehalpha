@@ -1,185 +1,36 @@
-<p align="center">
-<a href="http://www.bagisto.com"><img src="https://bagisto.com/wp-content/themes/bagisto/images/logo.png" alt="Total Downloads"></a>
-</p>
+### Hi there, I'm [Yisau Abdulazeez][website] 👋
 
-<p align="center">
-<a href="https://packagist.org/packages/bagisto/bagisto"><img src="https://poser.pugx.org/bagisto/bagisto/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/bagisto/bagisto"><img src="https://poser.pugx.org/bagisto/bagisto/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/bagisto/bagisto"><img src="https://poser.pugx.org/bagisto/bagisto/license.svg" alt="License"></a>
-<a href="https://github.com/bagisto/bagisto/actions"><img src="https://github.com/bagisto/bagisto/workflows/CI/badge.svg" alt="Backers on Open Collective"></a>
-<a href="#backers"><img src="https://opencollective.com/bagisto/backers/badge.svg" alt="Backers on Open Collective"></a>
-<a href="#sponsors"><img src="https://opencollective.com/bagisto/sponsors/badge.svg" alt="Sponsors on Open Collective"></a>
-</p>
-
-## Topics
-1. [Introduction](#introduction)
-2. [Documentation](#documentation)
-3. [Requirements](#requirements)
-4. [Installation & Configuration](#installation-and-configuration)
-5. [License](#license)
-6. [Security Vulnerabilities](#security-vulnerabilities)
-7. [Modules](#modules)
-8. [Miscellaneous](#miscellaneous)
-
-### Introduction
-
-[Bagisto](https://www.bagisto.com) is a hand tailored E-Commerce framework built on some of the hottest opensource technologies
-such as [Laravel](https://laravel.com) (a [PHP](https://secure.php.net/) framework) and [Vue.js](https://vuejs.org)
-a progressive Javascript framework.
-
-**Bagisto can help you to cut down your time, cost, and workforce for building online stores or migrating from physical stores
-to the ever demanding online world. Your business -- whether small or huge -- can benefit. And it's very simple to set it up.**
-
-**Read our documentation: [Bagisto Docs](https://devdocs.bagisto.com/)**
-
-**We also have a forum for any type of concerns, feature requests, or discussions. Please visit: [Bagisto Forums](https://forums.bagisto.com/)**
-
-# Visit our live [Demo](https://demo.bagisto.com)
-
-It packs in lots of features that will allow your E-Commerce business to scale in no time:
-
-* Multiple Channels, Locale, Currencies.
-* Built-in Access Control Layer.
-* Beautiful and Responsive Storefront.
-* Descriptive and Simple Admin Panel.
-* Admin Dashboard.
-* Custom Attributes.
-* Built on Modular Approach.
-* Support for Multiple Store Themes.
-* Multistore Inventory System.
-* Orders Management System.
-* Customer Cart, Wishlist, Product Reviews.
-* Simple, Configurable, Group, Bundle, Downloadable and Virtual Products.
-* Price rules (Discount) inbuilt.
-* Theme (Velocity).
-* CMS Pages.
-* Check out [these features and more](https://bagisto.com/features/).
-
-**For Developers**:
-Take advantage of two of the hottest frameworks used in this project -- Laravel and Vue.js -- both of which have been used in Bagisto.
-
-### Documentation
-
-#### Bagisto Documentation [https://devdocs.bagisto.com](https://devdocs.bagisto.com)
-
-### Requirements
-
-* **SERVER**: Apache 2 or NGINX.
-* **RAM**: 3 GB or higher.
-* **PHP**: 7.3 or higher.
-* **For MySQL users**: 5.7.23 or higher.
-* **For MariaDB users**: 10.2.7 or Higher.
-* **Node**: 8.11.3 LTS or higher.
-* **Composer**: 1.6.5 or higher.
-
-### Installation and Configuration
-
-**1. You can install Bagisto by using the GUI installer.**
-
-##### a. Download zip from the link below:
-
-[Download the latest release](https://github.com/bagisto/bagisto/releases/latest)
-
-##### b. Extract the contents of zip and execute the project in your browser:
-
-~~~
-http(s)://example.com
-~~~
-
-**2. Or you can install Bagisto from your console.**
-
-##### Execute these commands below, in order
-
-~~~
-1. composer create-project bagisto/bagisto
-~~~
-
-~~~
-2. php artisan bagisto:install
-~~~
-
-**To execute Bagisto**:
-
-##### On server:
-
-Warning: Before going into production mode we recommend you uninstall developer dependencies.
-In order to do that, run the command below:
-
-> composer install --no-dev
-
-~~~
-Open the specified entry point in your hosts file in your browser or make an entry in hosts file if not done.
-~~~
-
-##### On local:
-
-~~~
-php artisan serve
-~~~
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/callmehalpha/callmehalpha/blob/master/devcard.svg" width="400" alt="Yisau Abdulazeez's Dev Card"/></a>
 
 
-**How to log in as admin:**
+<img src="https://img.shields.io/github/followers/callmehalpha?style=social" alt="callmehalpha" />
 
-> *http(s)://example.com/admin/login*
+## I'm a Back-End Developer.
 
-~~~
-email:admin@example.com
-password:admin123
-~~~
+- 🔭 You can check out my website [here](https://callmehalpha.me/)
+- 👨🏾‍💻 See a few of my projects [here](https://callmehalpha.me/portfolio)
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- ⚡ Fun fact: I love to play games 🕺
+- 🌐 I’m a Nigerian 🇳🇬
 
-**How to log in as customer:**
+### Connect with me:
 
-*You can directly register as customer and then login.*
+[<img align="left" alt="callmehalpha.me" width="35px" src="https://img.icons8.com/bubbles/50/000000/globe.png" />][website]
+[<img align="left" alt="call_me_halpha | Twitter" width="35px" src="https://img.icons8.com/bubbles/50/000000/twitter.png" />][twitter]
+[<img align="left" alt="abdulazeezyisau | LinkedIn" width="35px" src="https://img.icons8.com/bubbles/50/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="Yisau Abdulazeez | facebook" width="35px" src="https://img.icons8.com/bubbles/50/000000/facebook-new.png"  />][facebook]
+<!--[<img align="left" alt="ameerbamigbyan | dribble" width="35px" src="https://img.icons8.com/bubbles/50/000000/dribbble.png" />][dribbble]
+[<img align="left" alt="ameerbamigbyan | fiverr" width="35px" src="https://img.icons8.com/bubbles/50/000000/fiverr.png" />][fiverr]
+[<img align="left" alt="ameerbamigbyan | Upwork" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg" />][upwork]-->
+<br /> 
 
-> *http(s)://example.com/customer/register*
 
 
-### License
-Bagisto is a truly opensource E-Commerce framework which will always be free under the [MIT License](https://github.com/bagisto/bagisto/blob/master/LICENSE).
-
-### Security Vulnerabilities
-Please don't disclose security vulnerabilities publicly. If you find any security vulnerability in Bagisto then please email us: mailto:support@bagisto.com.
-
-### Modules
-[Available Modules](https://bagisto.com/en/extensions)
-
-Need something else? Email us at support@bagisto.com.
-
-### Miscellaneous
-
-#### Contribute
-
-Bagisto is a community driven project, we appreciate every contribution from the community
-
-- If you found an issue that you think we should know about, or if you have a suggestion, please submit an issue.
-- If you want to submit a solution or offer a new feature, please create a pull request.
-
-Please read our [contributing guide](https://github.com/bagisto/bagisto/blob/master/.github/CONTRIBUTING.md) for more info.
-
-#### Contributors
-
-This project is on [Open Collective](https://opencollective.com/bagisto) and it exists thanks to the people who contribute.
-
-<a href="https://github.com/bagisto/bagisto/graphs/contributors"><img src="https://opencollective.com/bagisto/contributors.svg?width=890&button=false"/></a>
-
-#### Backers
-
-Thank you to all our backers! 🙏
-
-<a href="https://opencollective.com/bagisto#contributors" target="_blank"><img src="https://opencollective.com/bagisto/backers.svg?width=890"></a>
-
-#### Sponsors
-
-Support this project by becoming a sponsor. Your logo will show up here with a link to your website.
-
-<div>
-    <a href="https://opencollective.com/bagisto/contribute/sponsor-7372/checkout" target="_blank">
-        <img src="https://images.opencollective.com/static/images/become_sponsor.svg">
-    </a>
-</div>
-
-<kbd>
-    <a href="http://e.ventures/" target="_blank">
-        <img src="https://images.opencollective.com/e-ventures1/7d61db2/logo.png" height="75">
-    </a>
-</kbd>
+[website]: https://callmehalpha.me/
+[twitter]: https://twitter.com/call_me_halpha
+[linkedin]: https://www.linkedin.com/in/abdulazeez-yisau-369b1a119
+<!--[dribbble]: https://dribbble.com/AmeerBamigbayan
+[fiverr]: https://www.fiverr.com/ameerdamilola?public_mode=true
+[upwork]: https://www.upwork.com/freelancers/~018e4a266da3c6f995 -->
+[facebook]: https://www.facebook.com/abdulazeez.yisau 
