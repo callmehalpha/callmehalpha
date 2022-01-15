@@ -1,6 +1,6 @@
 ### Hi there, I'm [Yisau Abdulazeez][website] 👋
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/callmehalpha/callmehalpha/blob/master/devcard.svg" width="400" alt="Yisau Abdulazeez's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/callmehalpha/callmehalpha/blob/main/devcard.svg" width="400" alt="Yisau Abdulazeez's Dev Card"/></a>
 
 
 <img src="https://img.shields.io/github/followers/callmehalpha?style=social" alt="callmehalpha" />
