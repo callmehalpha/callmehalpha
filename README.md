@@ -4,6 +4,7 @@
 
 
 <img src="https://img.shields.io/github/followers/callmehalpha?style=social" alt="callmehalpha" />
+![](https://komarev.com/ghpvc/?username=callmehalpha&label=Visitors+Count&color=brightgreen)
 
 ## I'm a Back-End Developer.
 # 💻Tech Stack
@@ -39,8 +40,6 @@
 <img src="https://random-memer.herokuapp.com/" width="512px" alt="meme"/>
 
 ---
-![](https://komarev.com/ghpvc/?username=callmehalpha&label=Visitors+Count&color=brightgreen)
-
 
 [website]: https://callmehalpha.me/
 [twitter]: https://twitter.com/call_me_halpha
