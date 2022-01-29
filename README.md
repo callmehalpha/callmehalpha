@@ -37,9 +37,11 @@
 ### ✍️Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂Meme of the Day
-<img src="https://random-memer.herokuapp.com/" width="512px" alt="meme"/>
+### 😂Details on project
 
+- I created an ecommerce(Dropshipping) website using bagisto based on Laravel framework
+- But After some research on web3, I began fascinated and intend to build a marketplace which also accommodates NFT and 
+other digital assets.
 ---
 
 [website]: https://callmehalpha.me/
