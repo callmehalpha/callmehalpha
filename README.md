@@ -98,8 +98,8 @@ I'm documenting lessons from building production software, including topics like
 
 I'm always happy to connect with engineers, founders, and builders interested in infrastructure, AI, distributed systems, and products that solve meaningful operational problems.
 
-- 💼 LinkedIn: [*Add your link*](https://www.linkedin.com/in/abdulazeez-yisau-tech-ceo/)
-- 🐦 X (Twitter): https://x.com/call_me_halpha
+- 💼 LinkedIn: [Yisau Abdulazeez](https://www.linkedin.com/in/abdulazeez-yisau-tech-ceo/)
+- 🐦 X (Twitter): [Callmehalpha](https://x.com/call_me_halpha)
 - 🌐 Portfolio: [Callmehalpha](https://abdulazeez.usaiy.xyz/)
 
 ---
